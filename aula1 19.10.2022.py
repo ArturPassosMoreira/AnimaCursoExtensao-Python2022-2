@@ -1,4 +1,5 @@
 # Meu primeiro Projeto Python!!!
+#  PRIMEIRA AULA 19/10/2022
 # print() = comando de saida
 print("Alo Mundo!")
 
@@ -13,6 +14,5 @@ print("A minha idade é: {}".format(idade))
 
 
 
-'''
-comentario em bloco
-'''
+
+
